@@ -1,2 +1,2 @@
 # odin-recipesgit
-Project to practice HTML - recipe website
+Project to practice HTML - recipe website!
